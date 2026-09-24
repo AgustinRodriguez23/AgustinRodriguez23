@@ -7,7 +7,7 @@
 
 <br>
 	
-**Sobre mi**
+<h3>**Sobre mi**</h3>
 
 <br>
 
@@ -18,8 +18,8 @@ Desarrollador Full Stack especializado en el stack MERN (MongoDB, Express, React
 <br>
 
 - Apasionado en la Tecnología y el Conocimiento
-- Desarrollador Full Stack (MERN)
-- Abierto a una oportunidad de trabajo y a proyectos
+- Bien predispuesto y enfocado en adquirir experiencias y aprendizajes
+- Abierto a oportunidades de trabajo y a proyectos
 
 <br>
 
