@@ -1,9 +1,19 @@
 
-<h1 align="center"><b>Agustin Lihuel Rodriguez </b></h1>
+<h1 align="center"><b>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Bienvenido a mi GitHub</b></h1>
+
+<br>
+
+<h2>Agustin Lihuel Rodriguez</h2>
 
 <br>
 	
 **Sobre mi**
+
+<br>
+
+<section>
+Desarrollador Full Stack especializado en el stack MERN (MongoDB, Express, React y Node.js). Certificado en Desarrollo Full Stack de Coderhouse, con seis proyectos propios desarrollados de forma integral: modelado de datos, autenticación con JWT, APIs REST, y despliegue en producción. Aporto además, experiencia previa en gestión de equipos, atención al cliente y administración. Producto de haber liderado un emprendimiento propio y desempeñado roles de coordinación en producción. 
+</section>
 
 <br>
 
@@ -36,13 +46,13 @@
 
 <br>   
     
-- **Data bases**:
+- **Base de datos**:
 
    [![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,firebase,postgres)](https://skillicons.dev)
 
 <br>
 
-- **Softwares and Tools**:
+- **Herramientas**:
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,docker)](https://skillicons.dev)
 
