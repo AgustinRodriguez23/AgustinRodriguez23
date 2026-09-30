@@ -1,4 +1,3 @@
-
 <h1 align="center"><b>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Bienvenido a mi GitHub</b></h1>
 
 <br>
@@ -7,7 +6,7 @@
 
 <br>
 	
-<h3>**Sobre mi**</h3>
+<h3>Sobre mi</h3>
 
 <br>
 
@@ -36,7 +35,7 @@ Desarrollador Full Stack especializado en el stack MERN (MongoDB, Express, React
     
 - **Front-End**:
 
-   [![My Skills](https://skillicons.dev/icons?i=react,vite)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite)](https://skillicons.dev)
 
 <br>   
     
@@ -105,6 +104,4 @@ Auth con sesiones, roles, subida de imágenes a Cloudinary, tiempo real con Sock
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
-
 <br>
