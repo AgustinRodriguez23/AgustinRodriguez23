@@ -1,107 +1,110 @@
-<h1 align="center"><b>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Bienvenido a mi GitHub</b></h1>
-
-<br>
-
-<h2>Agustin Lihuel Rodriguez</h2>
-
-<br>
-	
-<h3>Sobre mi</h3>
-
-<br>
-
-<section>
-Desarrollador Full Stack especializado en el stack MERN (MongoDB, Express, React y Node.js). Certificado en Desarrollo Full Stack de Coderhouse, con seis proyectos propios desarrollados de forma integral: modelado de datos, autenticación con JWT, APIs REST, y despliegue en producción. Aporto además, experiencia previa en gestión de equipos, atención al cliente y administración. Producto de haber liderado un emprendimiento propio y desempeñado roles de coordinación en producción. 
-</section>
-
-<br>
-
-- Apasionado en la Tecnología y el Conocimiento
-- Bien predispuesto y enfocado en adquirir experiencias y aprendizajes
-- Abierto a oportunidades de trabajo y a proyectos
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<h1 align="center">Hi, I'm Agustín Lihuel Rodríguez 👋</h1>
 
 <p align="center">
+  <b>Full Stack Developer</b> · MERN · TypeScript<br>
+  📍 Quilmes, Buenos Aires, Argentina
+</p>
 
-- **Lenguajes**:
-    
-    [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
+<p align="center">
+  <a href="https://www.linkedin.com/in/agustin-lihuel-rodr%C3%ADguez-9968b7353" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Agustin%20Lihuel%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:agustinlihuel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-agustinlihuel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<br>   
-    
-- **Front-End**:
+---
 
-   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite)](https://skillicons.dev)
+## 👨‍💻 About me
 
-<br>   
-    
-- **Back-End**:
+Full Stack Developer focused on the **MERN stack** (MongoDB, Express, React, Node.js). Graduated from Coderhouse's Full Stack Development program.
 
-   [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+I build complete applications end to end: data modeling, REST APIs, authentication (JWT and sessions), role-based access control, third-party integrations and deployment to production.
 
-<br>   
-    
-- **Base de datos**:
+Before programming, I ran my own barbershop for over two years and worked as a production supervisor, which gave me hands-on experience in team management, customer service and operations.
 
-   [![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,firebase,postgres)](https://skillicons.dev)
+**Open to junior Full Stack opportunities and collaborations.**
+
+🔭 **Currently building:** [Full-Stack-TS](https://github.com/AgustinRodriguez23/Full-Stack-TS), an image-sharing app with TypeScript, Next.js, tRPC, Drizzle and Supabase.
+
+📚 **Currently learning:** testing with Vitest, Docker and CI/CD with GitHub Actions.
+
+---
+
+## 🛠️ Tech stack
+
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,html,css" alt="Languages" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite" alt="Front-end" /> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Back-end" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase" alt="Databases" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,docker" alt="Tools" /> |
+
+---
+
+## 🚀 Featured projects
+
+### [TrainingApp](https://github.com/AgustinRodriguez23/TrainingApp) — Workout tracker (MERN)
+Lets users build their own workout routines and follow them with a guided real-time timer, then review every completed session in their workout history. Multi-user with JWT authentication and a responsive UI.
+
+> 💡 **Highlight:** prevented IDOR vulnerabilities by scoping every database query to the authenticated user.
+
+**Stack:** React · Node.js · Express · MongoDB · JWT<br>
+🔗 [Live demo](https://training-app-eight-sage.vercel.app)
+
+### [Sneakers Backend](https://github.com/AgustinRodriguez23/Sneakers-backend) — E-commerce with admin panel
+Online sneaker store where customers browse products and manage their cart, while admins manage the catalog from a dedicated panel with image uploads to Cloudinary. Server-rendered, with session-based auth, user roles and real-time updates via Socket.io.
+
+> 💡 **Highlight:** persistence layer swappable between MongoDB and the file system through a Factory/DAO pattern.
+
+**Stack:** Node.js · Express · MongoDB · Handlebars · Socket.io<br>
+🔗 [Live demo](https://sneakersezp.onrender.com)
+
+<!--
+Uncomment this block once the RestoApp README has a short summary, screenshots and a demo video:
+
+### [RestoApp](https://github.com/AgustinRodriguez23/RestoApp) — Restaurant reservations platform (microservices)
+Practice project built to apply real-world backend patterns: BFF, event-driven communication with RabbitMQ, transactional outbox, idempotent payments, Redis caching, log tracing with Loki/Grafana, and CI/CD with GitHub Actions.
+**Stack:** NestJS · TypeScript · PostgreSQL · MongoDB · RabbitMQ · Redis · React · Docker · Jest
+-->
+
+---
+
+## 🎓 Education
+
+**Full Stack Development Program** — Coderhouse (2025–2026)
+
+---
+
+## 📫 Let's connect
+
+I'm open to new opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/agustin-lihuel-rodr%C3%ADguez-9968b7353) or [email](mailto:agustinlihuel@gmail.com).
+
+<details>
+<summary><b>🇦🇷 Leer en español</b></summary>
 
 <br>
 
-- **Herramientas**:
+## Sobre mí
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,docker)](https://skillicons.dev)
+Desarrollador Full Stack enfocado en el stack **MERN** (MongoDB, Express, React y Node.js). Egresado de la carrera de Desarrollo Full Stack de Coderhouse.
 
-<br>
+Desarrollo aplicaciones completas de punta a punta: modelado de datos, APIs REST, autenticación (JWT y sesiones), control de acceso por roles, integración con servicios externos y despliegue en producción.
 
+Antes de programar, tuve mi propia barbería durante más de dos años y trabajé como encargado de producción, donde adquirí experiencia en gestión de equipos, atención al cliente y administración.
 
-<br>
-<br>
+**Abierto a oportunidades junior como Full Stack y a colaboraciones.**
 
-## <b>🚀 Proyectos destacados</b>
-<br>
+🔭 **Actualmente desarrollando:** [Full-Stack-TS](https://github.com/AgustinRodriguez23/Full-Stack-TS), una app para compartir imágenes con TypeScript, Next.js, tRPC, Drizzle y Supabase.
 
-**[TrainingApp](https://github.com/AgustinRodriguez23/TrainingApp)** — App de entrenamiento full stack (MERN)
-Auth con JWT, historial de rutinas, temporizador en tiempo real.
-🔗 [Demo](https://training-app-eight-sage.vercel.app)
+📚 **Aprendiendo actualmente:** testing con Vitest, Docker y CI/CD con GitHub Actions.
 
-<br>
+## Proyectos destacados
 
-**[Sneakers Backend](https://github.com/AgustinRodriguez23/Sneakers-backend)** — E-commerce con panel de administración
-Auth con sesiones, roles, subida de imágenes a Cloudinary, tiempo real con Socket.io.
-🔗 [Demo](https://sneakersezp.onrender.com)
+- **[TrainingApp](https://github.com/AgustinRodriguez23/TrainingApp)**: app de entrenamiento multiusuario con rutinas, temporizador en tiempo real, autenticación JWT e historial. [Demo](https://training-app-eight-sage.vercel.app)
+- **[Sneakers Backend](https://github.com/AgustinRodriguez23/Sneakers-backend)**: e-commerce con sesiones, roles, panel de administración, subida de imágenes a Cloudinary y Socket.io. [Demo](https://sneakersezp.onrender.com)
 
-<br>
-<br>
+</details>
 
-## <b> Contactame!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/agustin-lihuel-rodr%C3%ADguez-9968b7353" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  agustin--lihuel--rodriguez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:agustinlihuel@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  agustinlihuel@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
